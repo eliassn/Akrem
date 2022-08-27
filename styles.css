@@ -16,7 +16,11 @@ background-color: rgb(153, 32, 32);
 color: #fff;
 min-height: 100px;
 height: 500px;
+padding-top: 10px;
 
+}
+figcaption{
+    margin-left: 20px;
 }
 .name{
     display: flex;
